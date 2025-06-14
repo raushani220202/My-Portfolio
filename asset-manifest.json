@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.45d1d76c.css",
+    "main.js": "/myportfolio/static/js/main.abefcd17.js",
+    "static/js/453.83234151.chunk.js": "/myportfolio/static/js/453.83234151.chunk.js",
+    "static/media/spring-boot.webp": "/myportfolio/static/media/spring-boot.e8a7d74a448c6c62d5a8.webp",
+    "static/media/ecommerce.webp": "/myportfolio/static/media/ecommerce.6903ebddc28a4ff2e775.webp",
+    "static/media/bankingApp.webp": "/myportfolio/static/media/bankingApp.5e5073032e650c11ef68.webp",
+    "static/media/react.webp": "/myportfolio/static/media/react.939d21b3a53a93ab8e22.webp",
+    "static/media/42168494-designstyle-Raushani.png": "/myportfolio/static/media/42168494-designstyle-Raushani.fdc390c20b0a85aa4d74.png",
+    "static/media/flightweb.jpeg": "/myportfolio/static/media/flightweb.c2821057ce79de2208d9.jpeg",
+    "index.html": "/myportfolio/index.html",
+    "main.45d1d76c.css.map": "/myportfolio/static/css/main.45d1d76c.css.map",
+    "main.abefcd17.js.map": "/myportfolio/static/js/main.abefcd17.js.map",
+    "453.83234151.chunk.js.map": "/myportfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d1d76c.css",
+    "static/js/main.abefcd17.js"
+  ]
+}
