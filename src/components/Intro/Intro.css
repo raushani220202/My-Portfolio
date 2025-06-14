@@ -1,0 +1,66 @@
+.btn{
+    color:black;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 10px;
+    font-weight: bolder;
+    margin: 20px;
+    
+}
+.btnn{
+    display: flex;
+}
+#intro{
+    height: calc(100vh - 4rem );
+    width:100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.introContent{
+    height:80vh;
+    padding:2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.hello{
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+.Soumya{
+    color:palegreen;
+    padding: 0 5px;
+    letter-spacing: 1px;
+    
+}
+.introPart{
+    font-size: medium;
+    font-weight: 100;
+    margin-top: 5px;
+    letter-spacing: 2px;
+}
+.front{
+    margin: 5px 5px;
+    letter-spacing: 3px;
+}
+.btn:hover{
+box-shadow: 2px 2px 5px white;
+background-color: palegreen;
+}
+@media  screen and (max-width:480px) {
+    .bg{
+        right:-10vw;
+    }
+    .introContent{
+        font-size: 10vw;
+    }
+    .hello{
+        font-size: 2.5rem;
+    }
+    
+}

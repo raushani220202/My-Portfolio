@@ -1,0 +1,46 @@
+.Title{
+    padding:3px;
+    text-align: center;
+    font-size: 2rem;
+}
+.content{
+    padding: 2px 2px;
+    
+    display: flex;
+    gap:10px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.github{
+    padding: 15px;
+    color: aquamarine;
+}
+.linkedin{
+    padding: 15px;
+    color: aquamarine;
+}
+.email{
+    padding: 10px;
+    color: aquamarine;
+word-spacing: 1px;
+
+}
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+    word-spacing: 2px;
+}
+content a {
+    text-decoration: none;
+    color: none; 
+  }
+  .content a:hover {
+    color: none; 
+  }
+  
+  .content i {
+    color: white; 
+  }
